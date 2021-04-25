@@ -1,0 +1,11 @@
+theme: "hyde"
+title: "Fraukes Blog"
+
+#Menus:
+#  main:
+#    - Name: "Github"
+#      URL: "https://github.com/frauke75/"
+
+params:
+  description: "Ich blogge halt mal los..."
+  copyright: "All rights reserved"
