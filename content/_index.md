@@ -1,11 +1,5 @@
 ---
-
-Tags: ["Fantasie", "Geschichte", "Basteln", "Häkeln"]
-Categories: ["Fantasiegeschichten", "Selbstgemachtes", "Die Gedanken sind..."]
-date: {{ .Date }}
-draft: true
-
-type: "posts"
+type: "docs"
 
 # Set page weight to re-arrange items in file-tree menu.
 weight: 10
@@ -13,11 +7,8 @@ weight: 10
 # Set how many table of contents levels to be showed on page.
 geekdocToC: 3
 
-# Set a description for the current page. This will be shown in toc-trees objects.
-geekdocDescription: ""
-
 # Show a breadcrumb navigation bar at the top of each docs page.
-geekdocBreadcrumb: true
+geekdocBreadcrumb: false
 
 # Set to mark page as flat section (file-tree menu only).
 geekdocFlatSection: false
@@ -34,4 +25,11 @@ geekdocCollapseSection: true
 
 # Add an anchor link to headlines.
 geekdocAnchor: true
+
+# If you have protected some pages with e.g. basic authentication you may want to exclude these pages
+# from data file, otherwise information may be leaked. Setting this parameter to 'true' will exclude the
+# page from search data, feeds, etc.
+# WARNING: Consider hosting a standalone, fully auth-protected static page for secret information instead!
+geekdocProtected: false
 ---
+Hier fehlt noch eine gute Beschreibung.
