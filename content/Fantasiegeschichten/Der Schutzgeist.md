@@ -1,7 +1,7 @@
 ---
-tags: ["Fantasie", "Geschichte", "Basteln", "Häkeln"]
-categories: ["Fantasiegeschichten", "Selbstgemachtes", "Die Gedanken sind..."]
-date: {{ .Date }}
+tags: ["Fantasie", "Geschichte"]
+categories: ["Fantasiegeschichten"]
+date: 2021-04-25T14:48:29+02:00
 draft: true
 
 type: "posts"
@@ -34,3 +34,6 @@ geekdocCollapseSection: true
 # Add an anchor link to headlines.
 geekdocAnchor: true
 ---
+Ich bin keine Wurzel.
+Ich bin ein Schutzgeist, der aussieht wie eine Wurzel.
+Das ist **der** Trick.
